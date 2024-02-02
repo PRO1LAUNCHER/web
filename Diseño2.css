@@ -1,0 +1,61 @@
+.POIUY {
+	background-image: url(R.gif)
+}
+
+.nav {
+   background: #FF5252;
+   box-shadow: 9px 3px 15px 0 #FC3B3B;
+}
+
+.nav_ul-li,.nav_ul-li-li{
+   display: inline-block;
+   padding: 20px;
+   color: #fff;
+   font-size: 30px;
+}
+
+.ET,.ETR {
+   color: #fff;
+   text-decoration: none;
+   font-size: 25px;
+   font-family: 'Inter', sans-serif;
+}
+
+.H1234 {
+	font-family: 'Sixtyfour', sans-serif;
+	color: #fff;
+	text-align: center;
+	font-size: 80px;
+	position: relative;
+	top: 200px;
+}
+
+.XCVBN {
+	font-family: 'Ubuntu', sans-serif;
+	color: #fff;
+	text-align: center;
+	font-size: 30px;
+	padding: 10px;
+}
+
+img {
+	position: relative;
+	left: 30px;
+	border-radius: 20px;
+}
+
+.SDFFGHK {
+   font-family: 'Inter', sans-serif;
+	color: #fff;
+	text-align: center;
+	font-size: 30px;
+	padding: 10px;
+}
+
+.container {
+	background: #FC3B3B;
+	padding: 80px;
+	border: 15px solid #D33131;
+	position: relative;
+	top: 300px;
+}

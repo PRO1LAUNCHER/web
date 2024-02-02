@@ -1,0 +1,141 @@
+body {
+   overflow-x: hidden;
+}
+
+.POIUY {
+   background-image: url(R.gif)
+}
+
+.WERTTU {
+	border-radius: 20px;
+	position: relative;
+	left: 800px;
+	bottom: 100px;
+}
+
+.nav {
+   background: #FF5252;
+   box-shadow: 9px 3px 15px 0 #FC3B3B;
+}
+
+.nav_ul-li,.nav_ul-li-li{
+   display: inline-block;
+   padding: 20px;
+   color: #fff;
+   font-size: 30px;
+}
+
+.ET,.ETR {
+   color: #fff;
+   text-decoration: none;
+   font-size: 25px;
+   font-family: 'Inter', sans-serif;
+}
+
+.QWEUYTU {
+	color: #fff;
+	font-family: 'Sixtyfour', sans-serif;
+	font-size: 60px;
+	position: relative;
+	top: 220px;
+	left: 80px;
+}
+
+.container {
+	background: #FC3B3B;
+	padding: 80px;
+	border: 15px solid #D33131;
+}
+
+.MNNBV {
+   font-family: 'Inter', sans-serif;
+   font-size: 40px;
+   color: #fff;
+   text-align: center;
+}
+
+.XCVBN {
+   background: #FC3B3B;
+   font-size: 70px;
+   position: relative;
+   bottom: 500px;
+   left: 260px;
+   border-radius: 20px;
+   text-decoration: none;
+   font-family: 'Inter', sans-serif;
+   border: 12px solid #D33131;
+   color: #fff;
+}
+
+.XCVBN:hover {
+	background: #D33131;
+	border: 12px solid #FC3B3B;
+}
+
+.container2 {
+	background: #FC3B3B;
+	padding: 80px;
+	border: 15px solid #D33131;
+	position: relative;
+	bottom: 100px;
+}
+
+.YUITUTY {
+	font-family: 'Sixtyfour', sans-serif;
+   font-size: 40px;
+   color: #fff;
+}
+
+.container3 {
+	background: #FC3B3B;
+	padding: 80px;
+	border: 15px solid #D33131;
+	position: relative;
+	bottom: 100px;
+}
+
+.PL {
+	width: 400px;
+	border-radius: 40px;
+}
+
+.FGH {
+	font-size: 30px;
+	position: relative;
+	left: 500px;
+	bottom: 300px;
+   padding-right: 500px;
+   font-family: 'Inter', sans-serif;
+   color: #fff;
+}
+
+.container4 {
+	background: #FC3B3B;
+	padding: 80px;
+	border: 15px solid #D33131;
+	position: relative;
+	bottom: 100px;
+}
+
+.PL2 {
+	width: 400px;
+	border-radius: 40px;
+}
+
+.FGH2 {
+	font-size: 30px;
+	position: relative;
+	left: 500px;
+	bottom: 300px;
+   padding-right: 500px;
+   font-family: 'Inter', sans-serif;
+   color: #fff;
+}
+
+.FOTTER {
+	background: #FC3B3B;
+	padding: 80px;
+	border: 15px solid #D33131;
+	position: relative;
+	bottom: 100px;
+}
